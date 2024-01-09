@@ -6,7 +6,95 @@ height: 600px;
 align-items: center;
 text-align: center;
 color: #FFFFFF;
+margin-top: 50px;
+margin-bottom: 468px;
+margin-left: 140px;
+margin-right: 140px;
+background-position: center;
+}
+div > h4 {
+    margin-top: 167px;
+margin-bottom: 293px;
+margin-left: 530px;
+margin-right: 531px;
+font-size: 32px;
+}
+div > h2 {
 
+font-size: 72px;
+width: 632px;
+height: 200px;
+margin-top: 0px;
+margin-bottom: 177px;
+margin-left: 344px;
+margin-right: 344px;
+}
+#nood {
+    color: brown;
 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 88px;
+font-weight: 700px;
+line-height: normal;
+margin-top: 0px;
+margin-bottom: 458px;
+margin-left: 608px;
+margin-right: 609px;
+}
+.bet {
+
+   margin-left: 650px; 
+font-size: 24px;
+font-weight: 500;
+line-height: normal;
+color: blue;
 
 }
+.beta {
+margin-left: 590px;
+font-size: 48px;
+font-weight: 700px;
+line-height: normal;
+margin-top: 50px;
+}
+.met {
+    background-image: url(../images/New\ Year\ Photo.png);
+    width: 802.9px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+.net {
+background-image: url(../images/Vectorrr.png);
+width: 1320px;
+height: 600px;
+margin-top: 200px;
+margin-left: 200px;
+text-decoration: solid;
+color: black;
+}
+.goal {
+font-size: 25px;
+margin: 200px;0px;0px;300px;
+}
+.not {
+background-image: url(../images/Facebook.png) url(../images/Instagram.png) url(../images/Linkedin.png) url(../images/Twitter.png);
+width: 64px;
+height: 64px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
